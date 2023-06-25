@@ -1,10 +1,13 @@
 package top.gaoyuanwang.gulimall.product.entity;
 
+import com.baomidou.mybatisplus.annotation.TableField;
 import com.baomidou.mybatisplus.annotation.TableId;
 import com.baomidou.mybatisplus.annotation.TableName;
 
 import java.io.Serializable;
 import java.util.Date;
+import java.util.List;
+
 import lombok.Data;
 
 /**
@@ -12,7 +15,7 @@ import lombok.Data;
  * 
  * @author gaoyuanwang
  * @email wanggaouyuan@icloud.com
- * @date 2023-06-21 11:47:58
+ * @date 2023-06-24 11:03:08
  */
 @Data
 @TableName("pms_category")
@@ -57,4 +60,6 @@ public class CategoryEntity implements Serializable {
 	 */
 	private Integer productCount;
 
+	@TableField(exist = false)
+	private List<CategoryEntity> children;
 }

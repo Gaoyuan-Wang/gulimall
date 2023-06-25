@@ -23,7 +23,7 @@ import top.gaoyuanwang.common.utils.R;
  *
  * @author gaoyuanwang
  * @email wanggaouyuan@icloud.com
- * @date 2023-06-21 12:19:18
+ * @date 2023-06-24 11:03:09
  */
 @RestController
 @RequestMapping("product/skusaleattrvalue")
