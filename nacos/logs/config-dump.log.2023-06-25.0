@@ -1,0 +1,32 @@
+2023-06-25 10:53:49,386 INFO [dump-all-ok] gulimall-coupon.yaml+DEFAULT_GROUP, 1687423434041, length=50, md5=a9798247ff6a719fad0a7f4ac95dc244
+
+2023-06-25 10:53:49,387 INFO [dump-all-ok] gulimall-coupon-dev.yaml+DEFAULT_GROUP, 1687424595123, length=50, md5=eac0e214d31497ae335dde3c43df7af1
+
+2023-06-25 10:53:49,387 INFO [dump-all-ok] gulimall-coupon.yaml+DEFAULT_GROUP, 1687425131489, length=50, md5=eac0e214d31497ae335dde3c43df7af1
+
+2023-06-25 10:53:49,387 INFO [dump-all-ok] gulimall-coupon.yaml+1111, 1687425268567, length=46, md5=f33c5a84cf02b92c46138913d4b130c0
+
+2023-06-25 10:53:49,387 INFO [dump-all-ok] datasource.yaml+dev, 1687425468723, length=250, md5=1e7ad197bbc767953009a0d230ce94ea
+
+2023-06-25 10:53:49,387 INFO [dump-all-ok] mybatis.yaml+dev, 1687425508151, length=115, md5=ea6e75e010715b96828522d3f1e06653
+
+2023-06-25 10:53:49,388 INFO [dump-all-ok] other.yaml+dev, 1687425601505, length=156, md5=aa2296ae66a1c66efea499d0b261f881
+
+2023-06-25 10:53:49,388 INFO [dump-all-ok] gulimall-gateway.yaml+DEFAULT_GROUP, 1687427173833, length=57, md5=6540f8212907f14f96eddab2231e4aa8
+
+2023-06-25 10:54:03,854 INFO [dump-all-ok] gulimall-coupon.yaml+DEFAULT_GROUP, 1687423434041, length=50, md5=a9798247ff6a719fad0a7f4ac95dc244
+
+2023-06-25 10:54:03,854 INFO [dump-all-ok] gulimall-coupon-dev.yaml+DEFAULT_GROUP, 1687424595123, length=50, md5=eac0e214d31497ae335dde3c43df7af1
+
+2023-06-25 10:54:03,855 INFO [dump-all-ok] gulimall-coupon.yaml+DEFAULT_GROUP, 1687425131489, length=50, md5=eac0e214d31497ae335dde3c43df7af1
+
+2023-06-25 10:54:03,855 INFO [dump-all-ok] gulimall-coupon.yaml+1111, 1687425268567, length=46, md5=f33c5a84cf02b92c46138913d4b130c0
+
+2023-06-25 10:54:03,855 INFO [dump-all-ok] datasource.yaml+dev, 1687425468723, length=250, md5=1e7ad197bbc767953009a0d230ce94ea
+
+2023-06-25 10:54:03,855 INFO [dump-all-ok] mybatis.yaml+dev, 1687425508151, length=115, md5=ea6e75e010715b96828522d3f1e06653
+
+2023-06-25 10:54:03,855 INFO [dump-all-ok] other.yaml+dev, 1687425601505, length=156, md5=aa2296ae66a1c66efea499d0b261f881
+
+2023-06-25 10:54:03,855 INFO [dump-all-ok] gulimall-gateway.yaml+DEFAULT_GROUP, 1687427173833, length=57, md5=6540f8212907f14f96eddab2231e4aa8
+
