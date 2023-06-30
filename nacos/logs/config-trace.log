@@ -1,1 +1,3 @@
-2023-06-27 10:56:28,333|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-06-30 10:45:02,750|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-06-30 10:45:04,890|192.168.3.7|oss.yml|DEFAULT_GROUP|ea1f94f2-843f-4f61-bc05-1ff8fca64af6|unknown|1688032397575|pull|ok|60707315|127.0.0.1
+2023-06-30 10:45:04,891|192.168.3.7|gulimall-third-party.yaml|DEFAULT_GROUP|ea1f94f2-843f-4f61-bc05-1ff8fca64af6|unknown|-1|pull|not-found|-1|127.0.0.1
