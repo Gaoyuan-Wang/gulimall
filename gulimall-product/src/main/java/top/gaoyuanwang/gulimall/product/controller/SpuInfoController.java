@@ -15,7 +15,7 @@ import top.gaoyuanwang.gulimall.product.entity.SpuInfoEntity;
 import top.gaoyuanwang.gulimall.product.service.SpuInfoService;
 import top.gaoyuanwang.common.utils.PageUtils;
 import top.gaoyuanwang.common.utils.R;
-
+import top.gaoyuanwang.gulimall.product.vo.SpuSaveVo;
 
 
 /**
@@ -59,8 +59,8 @@ public class SpuInfoController {
      */
     @RequestMapping("/save")
     //@RequiresPermissions("product:spuinfo:save")
-    public R save(@RequestBody SpuInfoEntity spuInfo){
-		spuInfoService.save(spuInfo);
+    public R save(@RequestBody SpuSaveVo vo){
+		spuInfoService.saveSpuInfo(vo);
 
         return R.ok();
     }

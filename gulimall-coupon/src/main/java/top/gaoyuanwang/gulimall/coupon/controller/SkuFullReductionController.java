@@ -11,6 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
+import top.gaoyuanwang.common.to.SkuReductionTo;
 import top.gaoyuanwang.gulimall.coupon.entity.SkuFullReductionEntity;
 import top.gaoyuanwang.gulimall.coupon.service.SkuFullReductionService;
 import top.gaoyuanwang.common.utils.PageUtils;
@@ -30,6 +31,14 @@ import top.gaoyuanwang.common.utils.R;
 public class SkuFullReductionController {
     @Autowired
     private SkuFullReductionService skuFullReductionService;
+
+    @RequestMapping("/saveinfo")
+    //@RequiresPermissions("coupon:skureduction:list")
+    public R saveInfo(@RequestBody SkuReductionTo reductionTo){
+        skuFullReductionService.saveSkuReduction(reductionTo);
+
+        return R.ok();
+    }
 
     /**
      * 列表

@@ -1,3 +1,7 @@
-2023-07-04 11:20:07,730|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-07-04 11:20:12,399|192.168.3.7|gulimall-third-party.yaml|DEFAULT_GROUP|ea1f94f2-843f-4f61-bc05-1ff8fca64af6|unknown|-1|pull|not-found|-1|127.0.0.1
-2023-07-04 11:20:12,410|192.168.3.7|oss.yml|DEFAULT_GROUP|ea1f94f2-843f-4f61-bc05-1ff8fca64af6|unknown|1688032397575|pull|ok|408414835|127.0.0.1
+2023-07-06 11:19:56,995|192.168.3.7|gulimall-third-party.yaml|DEFAULT_GROUP|ea1f94f2-843f-4f61-bc05-1ff8fca64af6|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-07-06 11:19:57,011|192.168.3.7|oss.yml|DEFAULT_GROUP|ea1f94f2-843f-4f61-bc05-1ff8fca64af6|unknown|1688032397575|pull|ok|581199436|127.0.0.1
+2023-07-06 11:19:57,973|192.168.3.7|datasource.yaml|dev|cc806197-30e2-49c9-9ed6-0e617c06e0dc|unknown|1687425468723|pull|ok|1188129250|127.0.0.1
+2023-07-06 11:19:57,981|192.168.3.7|mybatis.yaml|dev|cc806197-30e2-49c9-9ed6-0e617c06e0dc|unknown|1687425508151|pull|ok|1188089830|127.0.0.1
+2023-07-06 11:19:57,986|192.168.3.7|other.yaml|dev|cc806197-30e2-49c9-9ed6-0e617c06e0dc|unknown|1687425601505|pull|ok|1187996481|127.0.0.1
+2023-07-06 11:19:57,992|192.168.3.7|gulimall-coupon.yaml|DEFAULT_GROUP|cc806197-30e2-49c9-9ed6-0e617c06e0dc|unknown|1687425131489|pull|ok|1188466503|127.0.0.1
+2023-07-06 11:20:03,398|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1

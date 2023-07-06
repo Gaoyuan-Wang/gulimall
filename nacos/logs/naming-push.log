@@ -1,42 +1,12 @@
-2023-07-05 09:31:47,640 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+2023-07-06 11:20:01,776 INFO DEFAULT_GROUP@@gulimall-coupon is changed, add it to push queue.
 
-2023-07-05 09:31:47,881 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-06 11:20:03,744 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
 
-2023-07-05 09:31:47,881 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+2023-07-06 11:20:05,268 INFO DEFAULT_GROUP@@gulimall-member is changed, add it to push queue.
 
-2023-07-05 09:31:47,881 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+2023-07-06 11:20:05,924 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
 
-2023-07-05 09:31:51,331 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+2023-07-06 11:20:07,161 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
 
-2023-07-05 09:31:51,331 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-05 09:31:52,108 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
-
-2023-07-05 10:33:56,937 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
-
-2023-07-05 10:33:56,937 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
-
-2023-07-05 10:33:56,937 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-05 10:33:56,937 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-05 10:33:59,176 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-05 10:33:59,176 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
-
-2023-07-05 10:33:59,176 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-05 10:33:59,176 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
-
-2023-07-05 10:34:00,523 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-05 10:34:00,523 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
-
-2023-07-05 10:34:04,192 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-05 10:34:04,192 INFO serviceName: DEFAULT_GROUP@@gulimall-product changed, schedule push for: 192.168.192.13:55527, agent: Nacos-Java-Client:v1.1.1, key: 192.168.192.13,55527,167033668782900
-
-2023-07-05 10:34:04,192 INFO send udp packet: 192.168.192.13,55527,167033668782900
-
-2023-07-05 10:34:04,193 INFO received ack: {"type": "push-ack", "lastRefTime":"167033668782900", "data":""} from: 192.168.192.13:, cost: 55527 ms, unacked: 1, total push: 0
+2023-07-06 11:20:10,399 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
 
