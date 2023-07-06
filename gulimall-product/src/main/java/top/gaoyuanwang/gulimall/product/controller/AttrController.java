@@ -1,6 +1,7 @@
 package top.gaoyuanwang.gulimall.product.controller;
 
 import java.util.Arrays;
+import java.util.List;
 import java.util.Map;
 
 //import org.apache.shiro.authz.annotation.RequiresPermissions;
@@ -8,9 +9,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import top.gaoyuanwang.gulimall.product.entity.AttrEntity;
+import top.gaoyuanwang.gulimall.product.entity.ProductAttrValueEntity;
 import top.gaoyuanwang.gulimall.product.service.AttrService;
 import top.gaoyuanwang.common.utils.PageUtils;
 import top.gaoyuanwang.common.utils.R;
+import top.gaoyuanwang.gulimall.product.service.ProductAttrValueService;
 import top.gaoyuanwang.gulimall.product.vo.AttrGroupRelationVo;
 import top.gaoyuanwang.gulimall.product.vo.AttrRespVo;
 import top.gaoyuanwang.gulimall.product.vo.AttrVo;
@@ -28,6 +31,15 @@ import top.gaoyuanwang.gulimall.product.vo.AttrVo;
 public class AttrController {
     @Autowired
     private AttrService attrService;
+
+    @Autowired
+    ProductAttrValueService productAttrValueService;
+
+    @GetMapping("/base/listforspu/{spuId}")
+    public R baseAttrListForSpu(@PathVariable("spuId") Long spuId){
+        List<ProductAttrValueEntity> entities = productAttrValueService.baseAttrListForSpu(spuId);
+        return R.ok().put("data", entities);
+    }
 
     @GetMapping("/{attrType}/list/{catelogId}")
     public R baseAttrList(@RequestParam Map<String, Object> params,
@@ -82,6 +94,14 @@ public class AttrController {
 
         return R.ok();
     }
+
+    @PostMapping("/update/{spuId}")
+    public R updateSpuAttr(@PathVariable("spuId") Long spuId,
+                           @RequestBody List<ProductAttrValueEntity> entities){
+        productAttrValueService.updateSpuAttr(spuId, entities);
+        return R.ok();
+    }
+
 
     /**
      * 删除

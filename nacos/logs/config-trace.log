@@ -5,3 +5,9 @@
 2023-07-06 11:19:57,986|192.168.3.7|other.yaml|dev|cc806197-30e2-49c9-9ed6-0e617c06e0dc|unknown|1687425601505|pull|ok|1187996481|127.0.0.1
 2023-07-06 11:19:57,992|192.168.3.7|gulimall-coupon.yaml|DEFAULT_GROUP|cc806197-30e2-49c9-9ed6-0e617c06e0dc|unknown|1687425131489|pull|ok|1188466503|127.0.0.1
 2023-07-06 11:20:03,398|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-07-06 11:49:44,557|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-07-06 11:53:22,506|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-07-06 14:08:52,508|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-07-06 14:17:32,693|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-07-06 17:12:51,087|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1
+2023-07-06 17:19:42,266|192.168.3.7|gulimall-product.yaml|DEFAULT_GROUP|4e2c6d05-48ee-44da-8a2c-f92ac4e6cdcc|unknown|-1|pull|not-found|-1|127.0.0.1

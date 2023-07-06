@@ -1,0 +1,294 @@
+2023-07-04 11:20:09,853 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:20:09,856 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 192.168.3.7:88_true,
+
+2023-07-04 11:20:10,952 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:20:10,953 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 11:20:15,598 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:20:15,599 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.3.7:30000_true,
+
+2023-07-04 11:20:15,602 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.3.7:30000_true,
+
+2023-07-04 11:20:23,495 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:20:23,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.3.7:8080_true,
+
+2023-07-04 11:20:23,495 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:20:23,495 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.3.7:8080_true,
+
+2023-07-04 11:36:03,544 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:36:03,544 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 11:37:05,281 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:37:05,281 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 11:37:05,281 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 11:42:40,747 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:42:40,747 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 11:42:47,004 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:42:47,004 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 11:49:20,975 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:49:20,975 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 11:49:26,892 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:49:26,892 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 11:58:35,370 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:58:35,371 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 11:58:41,785 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 11:58:41,785 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 11:58:41,785 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 12:00:11,864 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 12:00:11,864 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 12:00:17,626 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 12:00:17,626 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 12:00:17,627 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 12:05:20,191 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 12:05:20,191 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 12:05:26,139 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 12:05:26,139 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 12:05:26,140 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 12:12:35,100 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 12:12:35,100 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 12:12:41,517 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 12:12:41,517 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 12:12:41,517 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:26:31,030 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:88@DEFAULT@DEFAULT_GROUP@@gulimall-gateway, region: unknown, msg: client timeout after 15000, last beat: 1688444975511
+
+2023-07-04 13:26:31,030 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:30000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1688444976183
+
+2023-07-04 13:26:31,030 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:10000@DEFAULT@DEFAULT_GROUP@@gulimall-product, region: unknown, msg: client timeout after 15000, last beat: 1688444979334
+
+2023-07-04 13:26:31,030 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:8080@DEFAULT@DEFAULT_GROUP@@renren-fast, region: unknown, msg: client timeout after 15000, last beat: 1688444978318
+
+2023-07-04 13:26:31,759 INFO service: DEFAULT_GROUP@@gulimall-gateway {POS} {IP-ENABLED} valid: 192.168.3.7:88@DEFAULT, region: unknown, msg: client beat ok
+
+2023-07-04 13:26:31,759 INFO service: DEFAULT_GROUP@@gulimall-third-party {POS} {IP-ENABLED} valid: 192.168.3.7:30000@DEFAULT, region: unknown, msg: client beat ok
+
+2023-07-04 13:26:32,042 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 13:26:32,042 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 13:26:32,042 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 13:26:32,043 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 13:26:32,043 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:26:32,043 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 
+
+2023-07-04 13:26:32,044 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 13:26:32,044 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 13:26:32,044 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:26:32,044 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 
+
+2023-07-04 13:26:32,045 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 13:26:32,045 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:26:33,439 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:26:33,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.3.7:8080_true,
+
+2023-07-04 13:26:33,439 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:26:33,439 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.3.7:8080_true,
+
+2023-07-04 13:26:34,463 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:26:34,463 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:26:36,762 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:26:36,763 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 192.168.3.7:88_true,
+
+2023-07-04 13:26:36,763 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:26:36,764 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.3.7:30000_true,
+
+2023-07-04 13:31:54,655 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:31:54,655 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:32:00,929 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:32:00,929 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:40:50,247 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:40:50,248 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:40:57,225 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:40:57,225 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:42:50,322 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:42:50,322 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:42:56,329 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:42:56,329 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:42:56,331 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:43:59,337 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:43:59,337 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:44:05,056 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:44:05,056 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:45:00,322 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:45:00,322 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:45:06,934 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:45:06,934 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:45:06,935 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:56:35,089 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:56:35,089 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:56:41,628 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:56:41,628 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:57:48,306 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:57:48,307 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:57:54,211 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:57:54,215 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:57:54,216 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:58:36,108 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:58:36,108 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 13:58:42,176 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 13:58:42,176 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 13:58:42,176 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 14:00:51,600 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 14:00:51,600 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 14:01:10,249 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 14:01:10,257 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 14:07:12,937 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 14:07:12,937 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 14:07:19,017 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 14:07:19,017 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 14:11:23,103 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 14:11:23,103 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 14:11:30,591 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 14:11:30,591 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 14:11:30,602 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
+2023-07-04 17:31:50,827 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:8080@DEFAULT@DEFAULT_GROUP@@renren-fast, region: unknown, msg: client timeout after 15000, last beat: 1688452237582
+
+2023-07-04 17:31:50,827 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:10000@DEFAULT@DEFAULT_GROUP@@gulimall-product, region: unknown, msg: client timeout after 15000, last beat: 1688452238561
+
+2023-07-04 17:31:50,827 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:30000@DEFAULT@DEFAULT_GROUP@@gulimall-third-party, region: unknown, msg: client timeout after 15000, last beat: 1688452236447
+
+2023-07-04 17:31:50,827 INFO {POS} {IP-DISABLED} valid: 192.168.3.7:88@DEFAULT@DEFAULT_GROUP@@gulimall-gateway, region: unknown, msg: client timeout after 15000, last beat: 1688452236354
+
+2023-07-04 17:31:50,834 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:30000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 17:31:50,834 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 
+
+2023-07-04 17:31:50,835 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:88:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 17:31:50,835 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 
+
+2023-07-04 17:31:50,835 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 17:31:50,835 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 17:31:50,835 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 17:31:50,835 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 17:31:50,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 17:31:50,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 
+
+2023-07-04 17:31:50,836 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_false_false_DEFAULT]
+
+2023-07-04 17:31:50,836 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 
+
+2023-07-04 17:31:51,813 INFO DEFAULT_GROUP@@gulimall-gateway {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:88:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 17:31:51,813 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-gateway, ips: 192.168.3.7:88_true,
+
+2023-07-04 17:31:51,814 INFO DEFAULT_GROUP@@gulimall-third-party {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:30000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 17:31:51,814 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-third-party, ips: 192.168.3.7:30000_true,
+
+2023-07-04 17:31:52,570 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 17:31:52,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.3.7:8080_true,
+
+2023-07-04 17:31:52,570 INFO DEFAULT_GROUP@@renren-fast {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:8080:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 17:31:52,570 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@renren-fast, ips: 192.168.3.7:8080_true,
+
+2023-07-04 17:31:53,559 INFO DEFAULT_GROUP@@gulimall-product {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.3.7:10000:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2023-07-04 17:31:53,559 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@gulimall-product, ips: 192.168.3.7:10000_true,
+
