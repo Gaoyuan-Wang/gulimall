@@ -1,52 +1,30 @@
-2023-07-18 14:56:48,894 INFO initializing Raft sub-system
+2023-07-26 15:03:19,683 INFO initializing Raft sub-system
 
-2023-07-18 14:56:48,894 INFO raft notifier started
+2023-07-26 15:03:19,683 INFO raft notifier started
 
-2023-07-18 14:56:48,894 INFO finish loading all datums, size: 0 cost 0 ms.
+2023-07-26 15:03:19,683 INFO finish loading all datums, size: 0 cost 0 ms.
 
-2023-07-18 14:56:48,896 INFO cache loaded, datum count: 0, current term: 0
+2023-07-26 15:03:19,685 INFO cache loaded, datum count: 0, current term: 0
 
-2023-07-18 14:56:48,896 INFO finish to load data from disk, cost: 2 ms.
+2023-07-26 15:03:19,685 INFO finish to load data from disk, cost: 2 ms.
 
-2023-07-18 14:56:48,900 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+2023-07-26 15:03:19,686 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
 
-2023-07-18 14:56:48,844 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
+2023-07-26 15:03:19,640 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:0","lastRefTime":0,"servePort":0,"site":"unknown","weight":1}]
 
-2023-07-18 14:56:48,907 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+2023-07-26 15:03:19,691 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
 
-2023-07-18 14:56:48,936 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+2023-07-26 15:03:19,718 INFO add listener: com.alibaba.nacos.naming.domains.meta.
 
-2023-07-18 14:56:49,818 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+2023-07-26 15:03:20,489 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
 
-2023-07-18 14:56:53,846 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+2023-07-26 15:03:24,645 INFO server list is updated, new: 1 servers: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 
-2023-07-18 14:56:53,846 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
+2023-07-26 15:03:24,645 INFO server list is updated, dead: 1, servers: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:0","lastRefTime":0,"lastRefTimeStr":"","servePort":0,"site":"unknown","weight":1}]
 
-2023-07-18 14:56:53,846 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+2023-07-26 15:03:24,645 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 
-2023-07-18 14:57:08,860 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
+2023-07-26 15:03:28,201 INFO leader timeout, start voting,leader: {"heartbeatDueMs":5000,"ip":"192.168.3.7:8848","leaderDueMs":18485,"state":"FOLLOWER","term":0,"voteFor":""}, term: 0
 
-2023-07-18 14:58:15,333 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-coupon
-
-2023-07-18 14:58:16,678 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-third-party
-
-2023-07-18 14:58:16,679 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-third-party
-
-2023-07-18 14:58:19,100 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-gateway
-
-2023-07-18 14:58:19,100 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-gateway
-
-2023-07-18 14:58:19,328 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-member
-
-2023-07-18 14:58:19,328 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-member
-
-2023-07-18 14:58:24,957 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-product
-
-2023-07-18 14:58:27,182 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-search
-
-2023-07-18 14:58:28,548 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-ware
-
-2023-07-18 14:58:28,548 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@gulimall-ware
-
-2023-07-18 14:58:32,757 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@renren-fast
+2023-07-26 15:03:39,658 INFO raft peers changed: [{"adWeight":0,"alive":false,"ip":"192.168.3.7","key":"192.168.3.7:8848","lastRefTime":0,"lastRefTimeStr":"","servePort":8848,"site":"unknown","weight":1}]
 

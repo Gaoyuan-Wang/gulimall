@@ -1,190 +1,32 @@
-2023-07-18 14:58:16,383 INFO DEFAULT_GROUP@@gulimall-coupon is changed, add it to push queue.
+2023-07-26 15:10:23,992 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
 
-2023-07-18 14:58:17,694 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
+2023-07-26 15:10:26,399 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
 
-2023-07-18 14:58:20,116 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
+2023-07-26 15:10:29,902 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
 
-2023-07-18 14:58:20,337 INFO DEFAULT_GROUP@@gulimall-member is changed, add it to push queue.
+2023-07-26 15:10:34,086 INFO DEFAULT_GROUP@@gulimall-search is changed, add it to push queue.
 
-2023-07-18 14:58:25,972 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:10:37,833 INFO DEFAULT_GROUP@@gulimall-coupon is changed, add it to push queue.
 
-2023-07-18 14:58:28,193 INFO DEFAULT_GROUP@@gulimall-search is changed, add it to push queue.
+2023-07-26 15:10:45,547 INFO DEFAULT_GROUP@@gulimall-member is changed, add it to push queue.
 
-2023-07-18 14:58:29,559 INFO DEFAULT_GROUP@@gulimall-ware is changed, add it to push queue.
+2023-07-26 15:10:51,678 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
 
-2023-07-18 14:58:33,761 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+2023-07-26 15:10:53,838 INFO DEFAULT_GROUP@@gulimall-ware is changed, add it to push queue.
 
-2023-07-18 15:03:07,743 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:10:58,926 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
 
-2023-07-18 15:03:13,648 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:11:00,169 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
 
-2023-07-18 15:06:10,151 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:11:10,903 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
 
-2023-07-18 15:06:16,226 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:11:10,981 INFO DEFAULT_GROUP@@gulimall-coupon is changed, add it to push queue.
 
-2023-07-18 15:06:42,835 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:11:10,997 INFO DEFAULT_GROUP@@gulimall-member is changed, add it to push queue.
 
-2023-07-18 15:06:49,706 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:11:11,061 INFO DEFAULT_GROUP@@gulimall-ware is changed, add it to push queue.
 
-2023-07-18 15:10:47,646 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
+2023-07-26 15:11:11,078 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
 
-2023-07-18 15:10:55,665 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:13:17,321 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:13:26,532 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:14:27,890 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:14:35,413 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:19:14,839 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:19:21,173 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:21:15,149 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:21:23,152 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:23:27,945 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:23:36,723 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:23:49,985 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:23:54,968 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:24:34,710 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:24:41,528 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:24:43,025 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:24:47,932 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:26:12,806 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:26:18,723 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:26:21,707 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:26:26,529 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:27:58,915 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:28:03,712 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:28:05,890 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:28:10,672 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:31:39,621 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:31:44,499 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:33:00,211 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:33:06,396 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:45:34,190 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:45:44,026 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:46:22,782 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:46:29,883 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:51:42,135 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:51:47,330 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:51:55,594 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:52:02,643 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:52:10,314 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 15:52:15,248 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:15:48,545 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:16:40,528 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:25:59,649 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:26:05,152 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:30:36,527 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:30:42,194 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:34:59,580 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
-
-2023-07-18 16:34:59,612 INFO DEFAULT_GROUP@@gulimall-coupon is changed, add it to push queue.
-
-2023-07-18 16:34:59,628 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-18 16:34:59,659 INFO DEFAULT_GROUP@@gulimall-member is changed, add it to push queue.
-
-2023-07-18 16:34:59,691 INFO DEFAULT_GROUP@@gulimall-search is changed, add it to push queue.
-
-2023-07-18 16:34:59,722 INFO DEFAULT_GROUP@@gulimall-ware is changed, add it to push queue.
-
-2023-07-18 16:34:59,770 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:35:00,387 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
-
-2023-07-18 16:35:28,527 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
-
-2023-07-18 16:35:32,276 INFO DEFAULT_GROUP@@gulimall-coupon is changed, add it to push queue.
-
-2023-07-18 16:35:37,942 INFO DEFAULT_GROUP@@gulimall-member is changed, add it to push queue.
-
-2023-07-18 16:35:39,099 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-18 16:35:44,932 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:35:46,791 INFO DEFAULT_GROUP@@gulimall-search is changed, add it to push queue.
-
-2023-07-18 16:35:47,639 INFO DEFAULT_GROUP@@gulimall-ware is changed, add it to push queue.
-
-2023-07-18 16:35:50,401 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
-
-2023-07-18 16:41:22,910 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:41:28,285 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:48:11,369 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:48:37,963 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:51:39,792 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 16:51:46,634 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 17:20:42,550 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-18 17:20:50,065 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-18 17:23:51,025 INFO DEFAULT_GROUP@@gulimall-third-party is changed, add it to push queue.
-
-2023-07-18 17:23:51,041 INFO DEFAULT_GROUP@@gulimall-coupon is changed, add it to push queue.
-
-2023-07-18 17:23:51,071 INFO DEFAULT_GROUP@@gulimall-member is changed, add it to push queue.
-
-2023-07-18 17:23:51,102 INFO DEFAULT_GROUP@@gulimall-search is changed, add it to push queue.
-
-2023-07-18 17:23:51,134 INFO DEFAULT_GROUP@@gulimall-ware is changed, add it to push queue.
-
-2023-07-18 17:23:51,212 INFO DEFAULT_GROUP@@gulimall-gateway is changed, add it to push queue.
-
-2023-07-18 17:23:51,244 INFO DEFAULT_GROUP@@gulimall-product is changed, add it to push queue.
-
-2023-07-18 17:23:51,245 INFO serviceName: DEFAULT_GROUP@@gulimall-product changed, schedule push for: 192.168.192.13:54606, agent: Nacos-Java-Client:v1.1.1, key: 192.168.192.13,54606,456208701933500
-
-2023-07-18 17:23:51,245 INFO send udp packet: 192.168.192.13,54606,456208701933500
-
-2023-07-18 17:23:51,253 INFO received ack: {"type": "push-ack", "lastRefTime":"456208701933500", "data":""} from: 192.168.192.13:, cost: 54606 ms, unacked: 8, total push: 0
-
-2023-07-18 17:23:51,747 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
+2023-07-26 15:11:12,345 INFO DEFAULT_GROUP@@renren-fast is changed, add it to push queue.
 
